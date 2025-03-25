@@ -1,4 +1,6 @@
 .idea
 .venv
-dist
+build
+BarcodeGenerator.spec
+main.spec
 
